@@ -1,6 +1,6 @@
 # Sunzu MCP server
 
-Run user research from your AI tool. Sunzu's remote MCP server lets Claude, ChatGPT, Cursor, VS Code and other MCP clients run depth interviews, concept tests, usability tests and content (ad) tests with synthetic humans grounded in customer evidence, then read the report in chat.
+Run synthetic user research from your AI tool. Sunzu is a synthetic users platform: its remote MCP server lets Claude, ChatGPT, Cursor, VS Code and other MCP clients run depth interviews, concept tests, usability tests and content (ad) tests with synthetic humans (Sunzu's synthetic users, or AI personas, grounded in customer evidence), then read the report in chat.
 
 - Server URL: `https://app.sunzu.com/mcp` (Streamable HTTP, OAuth sign-in)
 - Registry name: `com.sunzu/sunzu`
@@ -11,6 +11,17 @@ Run user research from your AI tool. Sunzu's remote MCP server lets Claude, Chat
 No account yet? Approving the connection in your browser lets you create one, then brings you straight back.
 
 Findings are simulated: directional signal from research-grounded synthetic humans. They complement research with real people.
+
+## What Sunzu is
+
+Sunzu is AI user research software in the **synthetic users** category, also called AI personas, synthetic personas, synthetic respondents or digital twins of customers. Its AI participants, called synthetic humans, are built from customer evidence rather than a single persona prompt. Teams use them to:
+
+- interview a target audience about needs, motivations and language (depth interviews)
+- compare 1 to 3 concepts or propositions (concept testing)
+- find friction in a website, Figma flow, prototype or local app (usability testing)
+- pick the strongest of 1 to 5 ads, videos or messages before media spend (content and ad testing)
+
+Findings are directional and complement research with real people. Methodology and published back-testing benchmarks: https://sunzu.com/papers/2/ · Overview: https://sunzu.com/synthetic-users/
 
 ## Install
 
