@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.sunzu/sunzu",
   "title": "Sunzu",
-  "description": "User research with synthetic humans: interviews, concept, usability and ad tests in minutes.",
-  "version": "1.0.0",
+  "description": "Synthetic users & AI personas for user research: interviews, concept, usability and ad tests.",
+  "version": "1.0.1",
   "websiteUrl": "https://sunzu.com/mcp/",
   "repository": {
     "url": "https://github.com/sunzuai/sunzu-mcp",
